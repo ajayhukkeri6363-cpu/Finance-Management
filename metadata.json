@@ -1,0 +1,8 @@
+{
+  "name": "GovTrack AI",
+  "description": "Classroom demonstration platform for public finance management, budget transparency, expenditure tracking, and rule-based spending review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
